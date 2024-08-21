@@ -15,4 +15,4 @@ lenguajeProg = prompt('¿Qué lenguaje de programación está estudiando?: ');
 
 //Imprimir las respuestas dadas por la persona
 console.log(`¡Hola ${nombre}! Usted tiene ${edad} años y está estudiando ${lenguajeProg},\
-su género es ${genero}!`);
+ su género es ${genero}!`);
