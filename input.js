@@ -14,5 +14,5 @@ edad = parseInt(prompt('¿Cuál es su edad? '));
 lenguajeProg = prompt('¿Qué lenguaje de programación está estudiando?');
 
 //Imprimir las respuestas dadas por la persona
-console.log(`¡Hola ${nombre}, usted tiene ${edad} años y está estudiando ${lenguajeProg},\
-    su género es ${genero}!`);
+console.log(`¡Hola ${nombre}!, usted tiene ${edad} años y está estudiando ${lenguajeProg},\
+su género es ${genero}!`);
