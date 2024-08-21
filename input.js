@@ -4,7 +4,6 @@ let edad;
 let genero;
 let lenguaje;
 
-
 //Importar el módulo prompt-sync
 const prompt = require('prompt-sync')();
 
