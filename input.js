@@ -16,12 +16,3 @@ lenguajeProg = prompt('¿Qué lenguaje de programación está estudiando?');
 //Imprimir las respuestas dadas por la persona
 console.log(`¡Hola ${nombre}, usted tiene ${edad} años y está estudiando ${lenguajeProg},\
     su género es ${genero}!`);
-
-console.log(`Hola, ${nombre}!`);
-edad = parseInt(prompt(`Me indica su edad, por favor ${nombre}: `));
-console.log(`Usted tiene ${edad} años.`);
-
-console.log(`Usted es ${genero}.`);
-
-lenguajeProg = prompt(`${nombre}, ¿Se puede saber que lenguaje de programación usted está estudiando?: `);
-console.log(`Usted está estudiando ${lenguajeProg}.`);
